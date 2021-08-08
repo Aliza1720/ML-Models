@@ -1,0 +1,699 @@
+molecule_chembl_id,canonical_smiles,standard_value,class
+CHEMBL29097,CC(C)c1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,23.0,intermediate
+CHEMBL32842,O=C(O)CSC(CCCc1ccc(Cl)cc1)c1ccc(OCc2ccc3ccccc3n2)cc1,122.0,weakly active
+CHEMBL281308,O=C(O)CSC(CCCc1ccccc1)(CCc1ccccc1)c1ccc(OCc2ccc3ccccc3n2)cc1,4.0,highly active
+CHEMBL16596,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccc4ccccc4n3)cc12,2.0,highly active
+CHEMBL297661,Cc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccc(-c4ccccc4)cn3)cc12,9.3,highly active
+CHEMBL295761,CC1Cc2c(OCc3ccc(-c4ccccc4)cn3)ccc3c2c(c(CC(C)(C)C(=O)O)n3Cc2ccc(Cl)cc2)S1,10000.0,weakly active
+CHEMBL31540,Cc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccc4ccccc4n3)cc12,2.8,highly active
+CHEMBL47539,C=CCc1c(OCc2ccc3ccccc3n2)ccc2c1c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,27.0,intermediate
+CHEMBL50170,CC1Cc2c(OCc3ccc4ccccc4n3)ccc3c2c(c(CC(C)(C)C(=O)O)n3Cc2ccc(Cl)cc2)S1,19.0,intermediate
+CHEMBL341696,CC1Cc2c(OCc3cc4ccccc4cn3)ccc3c2c(c(CSc2ccccc2C(=O)O)n3Cc2ccc(Cl)cc2)S1,2900.0,weakly active
+CHEMBL139891,CC1Cc2c(OCc3ccc4ccccc4n3)ccc3c2c(c(COc2ccccc2CC(=O)O)n3Cc2ccc(Cl)cc2)S1,32.0,intermediate
+CHEMBL138551,CC1Cc2c(OCc3ccccn3)ccc3c2c(c(CSc2ccccc2C(=O)O)n3Cc2ccc(Cl)cc2)S1,760.0,weakly active
+CHEMBL415530,COc1ccc(COc2ccc3c4c2CC(C)Sc4c(CSc2ccccc2C(=O)O)n3Cc2ccc(Cl)cc2)nc1,370.0,weakly active
+CHEMBL140157,CC1Cc2c(OCc3ccc4ccccc4n3)ccc3c2c(c(CSc2ccccc2C(=O)O)n3Cc2ccc(Cl)cc2)S1,72.0,weakly active
+CHEMBL80696,CC(COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1)c1ccccn1,8.0,highly active
+CHEMBL433133,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccc4cnccc4n3)cc12,2.0,highly active
+CHEMBL40073,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3cccnc3)cc12,59.0,weakly active
+CHEMBL38545,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3nc4ccccc4s3)cc12,2.0,highly active
+CHEMBL433137,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2cc(OCc3ccc4ccccc4n3)ccc12,428.0,weakly active
+CHEMBL81904,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(CCc3ccc4ccccc4n3)cc12,16.0,intermediate
+CHEMBL78789,Cc1nc2ccc(COc3ccc4c(c3)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n4Cc3ccc(Cl)cc3)cc2s1,40.0,intermediate
+CHEMBL80287,CC(C)c1csc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(Cl)cc2)n1,13.0,highly active
+CHEMBL78938,CC(Oc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1)c1ccc2ccccc2n1,116.0,weakly active
+CHEMBL80802,CCCC(Oc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1)c1ccc2ccccc2n1,350.0,weakly active
+CHEMBL78013,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccc4cc(F)ccc4n3)cc12,2.0,highly active
+CHEMBL79383,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3cnccn3)cc12,7.0,highly active
+CHEMBL310276,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(COCc3ccc4ccccc4n3)cc12,26.0,intermediate
+CHEMBL76750,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2cccc(OCc3ccc4ccccc4n3)c12,85.0,weakly active
+CHEMBL79881,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccc4cc(F)c(F)cc4n3)cc12,14.0,highly active
+CHEMBL310055,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3nc4cc(C(F)(F)F)ccc4s3)cc12,186.0,weakly active
+CHEMBL289751,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3cscn3)cc12,5.0,highly active
+CHEMBL80512,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3cccs3)cc12,70.0,weakly active
+CHEMBL80158,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(/C=C/c3ccc4ccccc4n3)cc12,11.0,highly active
+CHEMBL78854,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3nc4ccccc4o3)cc12,5.0,highly active
+CHEMBL82760,Cc1nc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(Cl)cc2)cs1,3.0,highly active
+CHEMBL310384,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3cc4ccccc4cn3)cc12,10.0,highly active
+CHEMBL80726,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccc4cccnc4n3)cc12,2.0,highly active
+CHEMBL39473,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccncc3)cc12,48.0,intermediate
+CHEMBL38958,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccccn3)cc12,3.0,highly active
+CHEMBL3350287,C[C@H](COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1)c1ccccn1,12.0,highly active
+CHEMBL2114162,C[C@@H](COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1)c1ccccn1,6.0,highly active
+CHEMBL39617,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3cccc(Cl)n3)cc12,8.0,highly active
+CHEMBL78201,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccc4c(n3)CCCC4)cc12,8.0,highly active
+CHEMBL311112,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2c(OCc3ccc4ccccc4n3)cccc12,1955.0,weakly active
+CHEMBL310727,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3cnc4ccccc4c3)cc12,48.0,intermediate
+CHEMBL80235,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccnc4ccccc34)cc12,62.0,weakly active
+CHEMBL311968,COc1ccc2nc(COc3ccc4c(c3)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n4Cc3ccc(Cl)cc3)sc2c1,73.0,weakly active
+CHEMBL96611,COc1ccc(COc2ccc3c4c2CC(C)Sc4c(CC(C)(C)C(=O)O)n3Cc2ccc(Cl)cc2)nc1,40.0,intermediate
+CHEMBL96412,CC1Cc2c(OCc3ccccn3)ccc3c2c(c(CC(C)(C)C(=O)O)n3Cc2ccc(Cl)cc2)S1,110.0,weakly active
+CHEMBL430487,CC1Cc2c(OCc3cc4ccccc4cn3)ccc3c2c(c(CC(C)(C)C(=O)O)n3Cc2ccc(Cl)cc2)S1,390.0,weakly active
+CHEMBL180650,Cc1ccccc1-c1ccc(-c2ccc3c(c2)c(C)c(CC(C)(C)C(=O)O)n3Cc2ccc(Cl)cc2)cc1F,1000.0,weakly active
+CHEMBL182032,Cc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(-c3ccc(-c4ccccc4)c(F)c3)cc12,1000.0,weakly active
+CHEMBL258213,OCCOc1ccc(C2(c3ccc(OCCO)cc3)CC3CCC2C3)cc1,387.0,weakly active
+CHEMBL404016,c1ccc(C2(c3cc(OCc4ccc5ccccc5n4)ccc3OCc3ccc4ccccc4n3)CCCCC2)cc1,4.2,highly active
+CHEMBL255228,COC(=O)COc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CCCCC1,3.7,highly active
+CHEMBL404276,O=C(Nc1cccnc1)Oc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CCCC1,2.4,highly active
+CHEMBL255227,C1=CC(COc2ccc(OCc3ccc4ccccc4n3)cc2C2(c3ccccc3)CCCC2)=CNC1,2.5,highly active
+CHEMBL404015,c1ccc(C2(c3cc(OCc4ccc5ccccc5n4)ccc3OCc3ccc4ccccc4n3)CCCC2)cc1,4.5,highly active
+CHEMBL255013,COC(=O)COc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CCCC1,9.3,highly active
+CHEMBL404275,Oc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CCCC1,22.0,intermediate
+CHEMBL255012,O=C(O)COc1cc(OCc2ccc3ccccc3n2)ccc1C1(c2ccccc2)CC2CCC1C2,3595.0,weakly active
+CHEMBL255011,COC(=O)COc1cc(OCc2ccc3ccccc3n2)ccc1C1(c2ccccc2)CC2CCC1C2,776.0,weakly active
+CHEMBL255010,Oc1cc(OCc2ccc3ccccc3n2)ccc1C1(c2ccccc2)CC2CCC1C2,980.0,weakly active
+CHEMBL401699,O=C(O)c1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC2CCC1C2,12.4,highly active
+CHEMBL254564,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC2CCC1C2,5.6,highly active
+CHEMBL402024,c1ccc(C2(c3cc(OCc4nc5ccccc5s4)ccc3OCc3ccccn3)CC3CCC2C3)cc1,7.6,highly active
+CHEMBL401597,c1ccc(C2(c3cc(OCc4ccc5occc5n4)ccc3OCc3ccccn3)CC3CCC2C3)cc1,4.9,highly active
+CHEMBL254563,O=C(Nc1cccnc1)Oc1ccc(OCc2ccccn2)c(C2(c3ccccc3)CC3CCC2C3)c1,181.0,weakly active
+CHEMBL415093,c1ccc(C2(c3cc(OCc4cccnc4)ccc3OCc3ccccn3)CC3CCC2C3)cc1,134.0,weakly active
+CHEMBL403980,c1ccc(C2(c3cc(OCc4ccccn4)ccc3OCc3ccccn3)CC3CCC2C3)cc1,18.3,intermediate
+CHEMBL254747,c1ccc(C2(c3cc(OCc4ccc5ccccc5n4)ccc3OCc3ccccn3)CC3CCC2C3)cc1,4.1,highly active
+CHEMBL254547,CS(=O)(=O)CCOc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC2CCC1C2,5.5,highly active
+CHEMBL438166,CN(C)CCOc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC2CCC1C2,6.5,highly active
+CHEMBL430038,c1ccc(COc2ccc(OCc3ccc4ccccc4n3)cc2C2(c3ccccc3)CC3CCC2C3)cc1,8.6,highly active
+CHEMBL257621,CCCCOc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC2CCC1C2,6.0,highly active
+CHEMBL256976,COc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC2CCC1C2,8.6,highly active
+CHEMBL256975,O=C(O)CCCOc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC2CCC1C2,3.5,highly active
+CHEMBL403199,CCOC(=O)CCCOc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC2CCC1C2,3.7,highly active
+CHEMBL404267,O=C(O)COc1ccc(OCc2ccc3ccccc3n2)c(C2(c3ccccc3)CC3CCC2C3)c1,3155.0,weakly active
+CHEMBL256766,O=C(O)COc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC2CCC1C2,14.0,highly active
+CHEMBL256765,COC(=O)COc1ccc(OCc2ccc3ccccc3n2)c(C2(c3ccccc3)CC3CCC2C3)c1,94.0,weakly active
+CHEMBL404266,COC(=O)COc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC2CCC1C2,5.0,highly active
+CHEMBL258432,Oc1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC2CCC1C2,13.2,highly active
+CHEMBL258431,Oc1ccc(O)c(C2(c3ccccc3)CC3CCC2C3)c1,2070.0,weakly active
+CHEMBL401668,O=C(O)COc1ccc(C2(c3ccc(OCc4ccc5ccccc5n4)cc3)CC3CCC2C3)cc1,98.0,weakly active
+CHEMBL258215,COC(=O)COc1ccc(C2(c3ccc(OCc4ccc5ccccc5n4)cc3)CC3CCC2C3)cc1,182.0,weakly active
+CHEMBL257797,c1ccc2nc(COc3ccc(C4(c5ccc(OCc6ccc7ccccc7n6)cc5)CC5CCC4C5)cc3)ccc2c1,127.0,weakly active
+CHEMBL258214,Oc1ccc(C2(c3ccc(OCc4ccc5ccccc5n4)cc3)CC3CCC2C3)cc1,145.0,weakly active
+CHEMBL541915,Br.O=C(Nc1cccnc1)Oc1ccc(OCc2nc3ccccc3s2)cc1C1(c2ccccc2)CC2CCC1C2,2.4,highly active
+CHEMBL558778,Cl.O=C(Nc1cccnc1)Oc1ccc(OCc2nc3ccccc3s2)cc1C1(c2ccccc2)CC2CCC1C2,2.5,highly active
+CHEMBL401667,O=C(Nc1cccnc1)Oc1ccc(OCc2nc3ccccc3s2)cc1C1(c2ccccc2)CC2CCC1C2,2.8,highly active
+CHEMBL112,CC(=O)Nc1ccc(O)cc1,44000.0,weakly active
+CHEMBL539650,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(-c3nccs3)cc2)c2ccc(OCc3ccccn3)cc12,4.8,highly active
+CHEMBL557052,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(-c3ncccn3)cc2)c2ccc(OCc3ccccn3)cc12,6.9,highly active
+CHEMBL555207,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(-c3cncnc3)cc2)c2ccc(OCc3ccccn3)cc12,7.7,highly active
+CHEMBL541967,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(-c3cnccn3)cc2)c2ccc(OCc3ccccn3)cc12,28.0,intermediate
+CHEMBL538632,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(-c3cccnc3)cc2)c2ccc(OCc3ccccn3)cc12,9.0,highly active
+CHEMBL553686,Cc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccccn5)ccc43)cc2)nn1,27.0,intermediate
+CHEMBL552567,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccccn5)ccc43)cc2)nn1,4.0,highly active
+CHEMBL553174,Cc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccccn5)ccc43)cc2)cn1,6.5,highly active
+CHEMBL557527,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccccn5)ccc43)cc2)cn1,4.2,highly active
+CHEMBL553175,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccccn5)ccc43)cc2)nc1,6.8,highly active
+CHEMBL538708,COc1ccc(-c2cccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccccn5)ccc43)c2)cn1,5.5,highly active
+CHEMBL557085,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c([S+]([O-])C(C)(C)C)c4cc(OCc5ccccn5)ccc43)cc2)cn1,793.0,weakly active
+CHEMBL538954,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(S(=O)(=O)C(C)(C)C)c4cc(OCc5ccccn5)ccc43)cc2)cn1,205.0,weakly active
+CHEMBL552280,CC(C)(Cc1cc2cc(OCc3ccccn3)ccc2n1Cc1ccc(-c2nccs2)cc1)C(=O)O,299.0,weakly active
+CHEMBL552544,CC(C)(Cc1c(C(=O)C2CCC2)c2cc(OCc3ccccn3)ccc2n1Cc1ccc(-c2nccs2)cc1)C(=O)O,444.0,weakly active
+CHEMBL538955,CC(C)(Cc1c(CC2CCC2)c2cc(OCc3ccccn3)ccc2n1Cc1ccc(-c2nccs2)cc1)C(=O)O,6.6,highly active
+CHEMBL555208,CC(C)(C)CCc1c(CC(C)(C)C(=O)O)n(Cc2ccc(-c3nccs3)cc2)c2ccc(OCc3ccccn3)cc12,229.0,weakly active
+CHEMBL555209,Cc1cnc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccccn5)ccc43)cc2)s1,4.8,highly active
+CHEMBL552545,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(-c3ncc(F)s3)cc2)c2ccc(OCc3ccccn3)cc12,2.1,highly active
+CHEMBL553403,Cc1csc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccccn5)ccc43)cc2)n1,7.3,highly active
+CHEMBL557548,COc1nc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccccn5)ccc43)cc2)cs1,3.3,highly active
+CHEMBL610189,CC(C)(C)OC(=O)N1CCC[C@H]1COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,1114.0,weakly active
+CHEMBL610188,CC(C)(C)OC(=O)N1CCC[C@@H]1COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,1805.0,weakly active
+CHEMBL594105,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OC[C@@H]3CCCN3)cc12,10000.0,weakly active
+CHEMBL604687,CC(=O)N1CCC[C@H]1COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,6.0,highly active
+CHEMBL596178,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OC[C@@H]3CCCN3S(C)(=O)=O)cc12,441.0,weakly active
+CHEMBL594104,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OC[C@@H]3CCC(=O)N3)cc12,616.0,weakly active
+CHEMBL607035,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCC(N)=O)cc12,38.0,intermediate
+CHEMBL595033,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCC(=O)c3ccc(F)cc3)cc12,13.0,highly active
+CHEMBL593389,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OCC(O)c3ccc(F)cc3)cc12,19.0,intermediate
+CHEMBL594303,CC(=O)N[C@H](COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1)c1ccccc1,581.0,weakly active
+CHEMBL605917,CCC(=O)N1CCC[C@H]1COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,4.0,highly active
+CHEMBL610186,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OC[C@@H]3CCCN3C(=O)C3CC3)cc12,50.0,weakly active
+CHEMBL604477,CC(C)C(=O)N1CCC[C@H]1COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,186.0,weakly active
+CHEMBL610187,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OC[C@@H]3CCCN3C(=O)c3ccccc3)cc12,1345.0,weakly active
+CHEMBL595089,CC(C)(C)OC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,1100.0,weakly active
+CHEMBL594794,CC(C)(C)Sc1c(CC(C)(C)C(=O)O)n(Cc2ccc(Cl)cc2)c2ccc(OC[C@@H]3Cc4ccccc4N3)cc12,85.0,weakly active
+CHEMBL610185,CC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,1.4,highly active
+CHEMBL609878,CC(C)(C)OC(=O)N1c2ccccc2C[C@@H]1COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,10000.0,weakly active
+CHEMBL593390,CC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)cc(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,218.0,weakly active
+CHEMBL610184,CC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)c(C(=O)C(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,20.6,intermediate
+CHEMBL594551,CC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)c(C(=O)c1ccccc1)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,10000.0,weakly active
+CHEMBL595009,CC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)c(C(=O)C(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,19.0,intermediate
+CHEMBL609877,CC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)c(CC(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,35.0,intermediate
+CHEMBL610190,CC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)c(Cc1ccccc1)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,15.2,intermediate
+CHEMBL610469,CC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)c(CCC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,4.7,highly active
+CHEMBL610470,CC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)c([S+]([O-])C(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,74.0,weakly active
+CHEMBL610471,CC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)c(S(=O)(=O)C(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(Cl)cc1,4.5,highly active
+CHEMBL595872,CC(=O)N1c2ccccc2C[C@H]1COc1ccc2c(c1)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n2Cc1ccc(-c2ccc(F)cn2)cc1,1.7,highly active
+CHEMBL610472,COc1nc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OC[C@@H]5Cc6ccccc6N5C(C)=O)ccc43)cc2)cs1,2.5,highly active
+CHEMBL610473,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OC[C@@H]5Cc6ccccc6N5C(C)=O)ccc43)cc2)cn1,9.3,highly active
+CHEMBL610474,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OC[C@@H]5Cc6ccccc6N5C(C)=O)ccc43)cc2)nc1,3.8,highly active
+CHEMBL594773,COC1=CC=C(c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OC[C@@H]5Cc6ccccc6N5C(C)=O)ccc43)cc2)NN1,3.2,highly active
+CHEMBL595092,COc1cnc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OC[C@@H]5Cc6ccccc6N5C(C)=O)ccc43)cc2)nc1,2.2,highly active
+CHEMBL1210423,COc1cnc(-c2ccc(Cn3c(CC(C)(C)C(=O)[O-])c(SC(C)(C)C)c4cc(OCc5ccc(C)cn5)ccc43)cc2)nc1.[Na+],2.0,highly active
+CHEMBL1289558,CC[C@](O)(c1cn(Cc2ccc3c(-c4ccc(F)cc4)c(C(N)=O)sc3c2)nn1)C(F)(F)F,20000.0,weakly active
+CHEMBL313489,CC(C)(C)Sc1c(CC(C)(C)C(=O)[O-])n(Cc2ccc(Cl)cc2)c2ccc(OCc3ccc4ccccc4n3)cc12.[Na+],1.9,highly active
+CHEMBL1922523,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc6ccccc6n5)ccc43)cc2)cn1,5.3,highly active
+CHEMBL1922524,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5cnc6ccccc6n5)ccc43)cc2)cn1,11.4,highly active
+CHEMBL1922525,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc6cc(F)ccc6n5)ccc43)cc2)cn1,7.6,highly active
+CHEMBL1922526,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc6ccc(F)cc6n5)ccc43)cc2)cn1,327.0,weakly active
+CHEMBL1922527,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc6cc(C)ccc6n5)ccc43)cc2)cn1,148.0,weakly active
+CHEMBL1922528,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5cn6ccccc6n5)ccc43)cc2)cn1,8.9,highly active
+CHEMBL1922529,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5cc6ccccc6[nH]5)ccc43)cc2)cn1,1250.0,weakly active
+CHEMBL1922530,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ncccc5C)ccc43)cc2)cn1,17.4,intermediate
+CHEMBL1922531,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5cc(C)ccn5)ccc43)cc2)cn1,21.8,intermediate
+CHEMBL1922532,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc(C)cn5)ccc43)cc2)cn1,1.7,highly active
+CHEMBL1922642,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5cccc(C)n5)ccc43)cc2)cn1,3.1,highly active
+CHEMBL1922643,CCc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3ccc(OC)nc3)cc2)nc1,10.1,highly active
+CHEMBL1922644,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ncc(C)cc5C)ccc43)cc2)cn1,59.3,weakly active
+CHEMBL1922645,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc(C)c(C)n5)ccc43)cc2)cn1,3.4,highly active
+CHEMBL1922646,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc(Cl)cn5)ccc43)cc2)cn1,26.5,intermediate
+CHEMBL1922647,COc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3ccc(OC)nc3)cc2)nc1,8.0,highly active
+CHEMBL1922648,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc(C(N)=O)cn5)ccc43)cc2)cn1,3270.0,weakly active
+CHEMBL1922649,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5cnc(C)cn5)ccc43)cc2)cn1,5.4,highly active
+CHEMBL1922650,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5cc(C)on5)ccc43)cc2)cn1,114.0,weakly active
+CHEMBL1922651,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5cc(C)n(C)n5)ccc43)cc2)cn1,1600.0,weakly active
+CHEMBL1922652,COc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5cc(C)nn5C)ccc43)cc2)cn1,2470.0,weakly active
+CHEMBL1922653,COc1cccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc(C)cn5)ccc43)cc2)n1,1.3,highly active
+CHEMBL1922654,COc1cccnc1-c1ccc(Cn2c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c3cc(OCc4ccc(C)cn4)ccc32)cc1,4.6,highly active
+CHEMBL1922655,Cc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3cc(C(F)(F)F)ccn3)cc2)nc1,2.1,highly active
+CHEMBL1922656,CCOc1nc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc(C)cn5)ccc43)cc2)cs1,1.4,highly active
+CHEMBL1922657,Cc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3ccc(C(F)(F)F)nc3)cc2)nc1,3.2,highly active
+CHEMBL1922658,Cc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3ccc(C(F)(F)F)cn3)cc2)nc1,2.7,highly active
+CHEMBL1922659,Cc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3cccc(C(F)(F)F)n3)cc2)nc1,1.8,highly active
+CHEMBL1922660,CCOc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc(C)cn5)ccc43)cc2)cn1,2.9,highly active
+CHEMBL1922661,CCOc1cccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc(C)cn5)ccc43)cc2)n1,1.4,highly active
+CHEMBL1922662,Cc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3ccc(C)cn3)cc2)nc1,2.2,highly active
+CHEMBL1922663,Cc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3ccc(F)cn3)cc2)nc1,1.5,highly active
+CHEMBL1922664,Cc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3cncc(F)c3)cc2)nc1,2.1,highly active
+CHEMBL1922665,Cc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3cccnc3)cc2)nc1,2.6,highly active
+CHEMBL1922666,Cc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3ccccn3)cc2)nc1,1.3,highly active
+CHEMBL1922667,Cc1ccc(COc2ccc3c(c2)c(SC(C)(C)C)c(CC(C)(C)C(=O)O)n3Cc2ccc(-c3ccc(=O)[nH]c3)cc2)nc1,8.3,highly active
+CHEMBL1229205,COc1cnc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc(C)cn5)ccc43)cc2)nc1,2.0,highly active
+CHEMBL1922668,CCOc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(SC(C)(C)C)c4cc(OCc5ccc(C)c[n+]5[O-])ccc43)cc2)cn1,89.5,weakly active
+CHEMBL1922669,CCOc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)cc4cc(OCc5ccc(C)cn5)ccc43)cc2)cn1,219.0,weakly active
+CHEMBL1922670,CCOc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c([S+]([O-])C(C)(C)C)c4cc(OCc5ccc(C)cn5)ccc43)cc2)cn1,559.0,weakly active
+CHEMBL1922671,CCOc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(C(=O)CC(C)(C)C)c4cc(OCc5ccc(C)cn5)ccc43)cc2)cn1,29.3,intermediate
+CHEMBL1922672,CCOc1ccc(-c2ccc(Cn3c(CC(C)(C)C(=O)O)c(C(=O)Cc4ccccc4)c4cc(OCc5ccc(C)cn5)ccc43)cc2)cn1,22500.0,weakly active
+CHEMBL93,CC(c1cc2ccccc2s1)N(O)C(N)=O,2200.0,weakly active
+CHEMBL2029369,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2ccccc2)C[C@H]2CC[C@H]1C2,2.1,highly active
+CHEMBL2031436,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2ccccc2F)C[C@H]2CC[C@H]1C2,4.0,highly active
+CHEMBL2031437,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2cccc(F)c2)C[C@H]2CC[C@H]1C2,2.3,highly active
+CHEMBL2031438,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2ccc(F)cc2)C[C@H]2CC[C@H]1C2,9.5,highly active
+CHEMBL2031439,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2cccc(C)c2)C[C@H]2CC[C@H]1C2,5.5,highly active
+CHEMBL2031440,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2cccc(C(F)(F)F)c2)C[C@H]2CC[C@H]1C2,7.4,highly active
+CHEMBL2031441,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2cccc(OC)c2)C[C@H]2CC[C@H]1C2,2.5,highly active
+CHEMBL2031442,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2cc(F)cc(F)c2)C[C@H]2CC[C@H]1C2,3.4,highly active
+CHEMBL2031443,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2cc(C)cc(C)c2)C[C@H]2CC[C@H]1C2,3.5,highly active
+CHEMBL2031444,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C(C)(C)c1ccccc1,58.0,weakly active
+CHEMBL2031445,CCC(CC)(c1ccccc1)c1cc(OCc2ccc3ccccc3n2)ccc1C(=O)OC,96.0,weakly active
+CHEMBL2031446,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C(c1ccccc1)C1CCCCC1,16.0,intermediate
+CHEMBL2031447,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C(c1ccccc1)C(C)(C)C,5.5,highly active
+CHEMBL2031448,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C(CC(C)(C)C)c1ccccc1,3.0,highly active
+CHEMBL2031449,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)C2CCC1CC2,5.6,highly active
+CHEMBL2031450,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CCCCC1,15.0,highly active
+CHEMBL2031451,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CCCC1,8.5,highly active
+CHEMBL2031452,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CCC1,20.0,intermediate
+CHEMBL2031453,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC(C)C1,3.2,highly active
+CHEMBL2031454,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC(F)(F)C1,50.0,weakly active
+CHEMBL2031455,COC(=O)c1ccc(OCc2ccc3ccccc3n2)cc1C1(c2ccccc2)CC(C)(C)C1,5.2,highly active
+CHEMBL2031456,O=C(Nc1cccnc1)c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2ccccc2)C[C@H]2CC[C@H]1C2,5.8,highly active
+CHEMBL2031457,O=C(NC1CCCC1)c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2ccccc2)C[C@H]2CC[C@H]1C2,48.0,intermediate
+CHEMBL2031458,O=C(c1ccc(OCc2ccc3ccccc3n2)cc1[C@]1(c2ccccc2)C[C@H]2CC[C@H]1C2)N1CCCC1,7.1,highly active
+CHEMBL2031459,Cc1noc(-c2ccc(OCc3ccc4ccccc4n3)cc2[C@]2(c3ccccc3)C[C@H]3CC[C@H]2C3)n1,6.3,highly active
+CHEMBL2031645,Nc1nnc(-c2ccc(OCc3ccc4ccccc4n3)cc2[C@]2(c3ccccc3)C[C@H]3CC[C@H]2C3)o1,2.2,highly active
+CHEMBL2031646,O=c1[nH]nc(-c2ccc(OCc3ccc4ccccc4n3)cc2[C@]2(c3ccccc3)C[C@H]3CC[C@H]2C3)o1,2.5,highly active
+CHEMBL2031647,S=c1[nH]nc(-c2ccc(OCc3ccc4ccccc4n3)cc2[C@]2(c3ccccc3)C[C@H]3CC[C@H]2C3)o1,1.1,highly active
+CHEMBL2031648,Cc1nnc(-c2ccc(OCc3ccc4ccccc4n3)cc2[C@]2(c3ccccc3)C[C@H]3CC[C@H]2C3)o1,5.0,highly active
+CHEMBL2031649,c1ccc([C@@]2(c3cc(OCc4ccc5ccccc5n4)ccc3-c3nnco3)C[C@H]3CC[C@H]2C3)cc1,2.9,highly active
+CHEMBL2031650,c1ccc([C@@]2(c3cc(OCc4ccc5ccccc5n4)ccc3-c3ncon3)C[C@H]3CC[C@H]2C3)cc1,5.4,highly active
+CHEMBL2031651,Cc1nc(-c2ccc(OCc3ccc4ccccc4n3)cc2[C@]2(c3ccccc3)C[C@H]3CC[C@H]2C3)no1,1.6,highly active
+CHEMBL2031652,c1ccc([C@@]2(c3cc(OCc4ccc5ccccc5n4)ccc3-c3nn[nH]n3)C[C@H]3CC[C@H]2C3)cc1,2.9,highly active
+CHEMBL2031653,Cn1nnc(-c2ccc(OCc3ccc4ccccc4n3)cc2[C@]2(c3ccccc3)C[C@H]3CC[C@H]2C3)n1,2.8,highly active
+CHEMBL2031654,CCn1nnc(-c2ccc(OCc3ccc4ccccc4n3)cc2[C@]2(c3ccccc3)C[C@H]3CC[C@H]2C3)n1,2.4,highly active
+CHEMBL2031655,CC(C)n1nnc(-c2ccc(OCc3ccc4ccccc4n3)cc2[C@]2(c3ccccc3)C[C@H]3CC[C@H]2C3)n1,1.7,highly active
+CHEMBL2031656,FC(F)n1nnc(-c2ccc(OCc3ccc4ccccc4n3)cc2[C@]2(c3ccccc3)C[C@H]3CC[C@H]2C3)n1,2.4,highly active
+CHEMBL2031657,O=c1[nH]nc(-c2ccc(OCc3ccc4ccccc4n3)cc2[C@@]2(c3ccccc3)C[C@H]3CC[C@H]2C3)o1,0.8,highly active
+CHEMBL2031658,COc1cccc([C@]2(c3cc(OCc4ccc5ccccc5n4)ccc3-c3n[nH]c(=O)o3)C[C@H]3CC[C@H]2C3)c1,1.1,highly active
+CHEMBL2031659,CC(C)(C)[C@@H](c1ccccc1)c1cc(OCc2ccc3ccccc3n2)ccc1-c1n[nH]c(=O)o1,1.9,highly active
+CHEMBL2031660,CC1(C)CC(c2ccccc2)(c2cc(OCc3ccc4ccccc4n3)ccc2-c2n[nH]c(=O)o2)C1,3.6,highly active
+CHEMBL2031661,CC1CC(c2ccccc2)(c2cc(OCc3ccc4ccccc4n3)ccc2-c2n[nH]c(=O)o2)C1,2.6,highly active
+CHEMBL2036157,Cc1ccc(-n2c(SCC(=O)Nc3ccc(Cl)cc3C)nnc2-c2ccc(C(C)(C)C)cc2)cc1,10000.0,weakly active
+CHEMBL2036158,CC(C)(C)c1ccc(-c2nnc(SCC(=O)Nc3ccc(Cl)c(Cl)c3)n2-c2ccc(Cl)cc2)cc1,10000.0,weakly active
+CHEMBL2036159,Cc1ccc(-n2c(SCC(=O)NCC(C)C)nnc2-c2ccc(C(C)(C)C)cc2)cc1,10000.0,weakly active
+CHEMBL2036160,Oc1cc(OCc2ccccc2Cl)ccc1-c1[nH]nc(C(F)(F)F)c1-c1ccc(Cl)cc1,8800.0,weakly active
+CHEMBL2036161,COc1ccc(-c2c(C)n[nH]c2-c2ccc(OCc3c(Cl)cccc3Cl)cc2O)cc1OC,9100.0,weakly active
+CHEMBL2036162,Cc1ccc2c(c1)C(=O)C1C(O2)C(=O)N(CCCOC(C)C)C1c1ccc(Cl)c(Cl)c1,10000.0,weakly active
+CHEMBL2036163,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccccc2Cl)cc1,310.0,weakly active
+CHEMBL2036164,Cc1ccccc1COc1ccc(-c2onc(C)c2-c2ccc(Cl)cc2)c(O)c1,4400.0,weakly active
+CHEMBL314360,CC(=O)N(O)C/C=C/c1cccc(Oc2ccccc2)c1,110.0,weakly active
+CHEMBL2036165,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccccc2)cc1,980.0,weakly active
+CHEMBL2036166,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccc(Cl)cc2)cc1,4800.0,weakly active
+CHEMBL2036167,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccc(Br)cc2)cc1,6000.0,weakly active
+CHEMBL2036168,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccc(F)cc2)cc1,3400.0,weakly active
+CHEMBL2034994,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccc(I)cc2)cc1,5000.0,weakly active
+CHEMBL2036169,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccc(C(F)(F)F)cc2)cc1,4900.0,weakly active
+CHEMBL2036170,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccc(C#N)cc2)cc1,2300.0,weakly active
+CHEMBL2036171,Cc1ccc(Cn2c(C(C)c3ccc(CC(C)C)cc3)nc3ccccc32)cc1,2900.0,weakly active
+CHEMBL2036172,COc1ccc(Cn2c(C(C)c3ccc(CC(C)C)cc3)nc3ccccc32)cc1,3800.0,weakly active
+CHEMBL2036173,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccc(C(C)C)cc2)cc1,7200.0,weakly active
+CHEMBL2036174,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccc(C(C)(C)C)cc2)cc1,10000.0,weakly active
+CHEMBL2036175,COC(=O)c1ccc(Cn2c(C(C)c3ccc(CC(C)C)cc3)nc3ccccc32)cc1,10000.0,weakly active
+CHEMBL2036176,Cc1ccccc1Cn1c(C(C)c2ccc(CC(C)C)cc2)nc2ccccc21,500.0,weakly active
+CHEMBL2036177,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccccc2F)cc1,700.0,weakly active
+CHEMBL2036178,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccccc2C#N)cc1,450.0,weakly active
+CHEMBL2036179,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccccc2O)cc1,4500.0,weakly active
+CHEMBL2036180,CC(=O)Oc1ccccc1Cn1c(C(C)c2ccc(CC(C)C)cc2)nc2ccccc21,250.0,weakly active
+CHEMBL2036181,COc1ccccc1Cn1c(C(C)c2ccc(CC(C)C)cc2)nc2ccccc21,440.0,weakly active
+CHEMBL2036182,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccccc2C(F)(F)F)cc1,250.0,weakly active
+CHEMBL2036183,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2cccc(F)c2)cc1,4000.0,weakly active
+CHEMBL2036186,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccc(Cl)cc2Cl)cc1,500.0,weakly active
+CHEMBL2036187,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2c(Cl)cccc2Cl)cc1,4400.0,weakly active
+CHEMBL2036188,CCOc1ccc(Cn2c(C(C)c3ccc(CC(C)C)cc3)nc3ccccc32)cc1OCC,10000.0,weakly active
+CHEMBL2036189,COc1ccc(Cn2c(C(C)c3ccc(CC(C)C)cc3)nc3ccccc32)c(OC)c1OC,9400.0,weakly active
+CHEMBL2036190,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccccn2)cc1,2500.0,weakly active
+CHEMBL2036191,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2cccnc2)cc1,2800.0,weakly active
+CHEMBL2036192,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccncc2)cc1,1950.0,weakly active
+CHEMBL2036193,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccc3ccccc3n2)cc1,4400.0,weakly active
+CHEMBL2036194,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2C(=O)c2ccccc2Cl)cc1,10000.0,weakly active
+CHEMBL2036195,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2C(=O)c2ccccc2)cc1,10000.0,weakly active
+CHEMBL2036196,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2C(=O)c2cccc(Cl)c2)cc1,10000.0,weakly active
+CHEMBL2036197,CC(=O)Oc1ccccc1C(=O)n1c(C(C)c2ccc(CC(C)C)cc2)nc2ccccc21,6000.0,weakly active
+CHEMBL2036373,COC(=O)Cn1c(C(C)c2ccc(CC(C)C)cc2)nc2ccccc21,10000.0,weakly active
+CHEMBL2036371,CC(C)Cc1ccc(C(C)c2nc3ccccc3n2CC(=O)O)cc1,10000.0,weakly active
+CHEMBL2036372,CC(C)Cc1ccc(Cc2nc3ccccc3n2Cc2ccccc2Cl)cc1,500.0,weakly active
+CHEMBL2036374,CC(C)Cc1ccc(C(C)(C)c2nc3ccccc3n2Cc2ccccc2Cl)cc1,700.0,weakly active
+CHEMBL2036375,Cc1ccc(C(C)c2nc3ccccc3n2Cc2ccccc2Cl)cc1,2800.0,weakly active
+CHEMBL2036376,CC(c1ccc(C(=O)c2ccccc2)cc1)c1nc2ccccc2n1Cc1ccccc1Cl,3000.0,weakly active
+CHEMBL2036377,COc1ccc2c(c1)nc(C(C)c1ccc(CC(C)C)cc1)n2Cc1ccccc1Cl,120.0,weakly active
+CHEMBL2036378,CC(C)Cc1ccc(C(C)c2nc3cc(O)ccc3n2Cc2ccccc2Cl)cc1,190.0,weakly active
+CHEMBL2036379,CC(C)Cc1ccc(C(C)c2nc3cc(OCc4ccccn4)ccc3n2Cc2ccccc2Cl)cc1,180.0,weakly active
+CHEMBL2036380,CC(C)Cc1ccc(C(C)c2nc3cc(OCc4ccc5ccccc5n4)ccc3n2Cc2ccccc2Cl)cc1,10000.0,weakly active
+CHEMBL2036381,CC(C)Cc1ccc(C(C)c2nc3cc(Cl)ccc3n2Cc2ccccc2)cc1,830.0,weakly active
+CHEMBL2036382,CC(C)Cc1ccc(C(C)c2nc3cc(Cl)ccc3n2Cc2ccccc2Cl)cc1,160.0,weakly active
+CHEMBL3417416,Nc1ncc(-c2ccc(C3(c4noc(-c5ccnnc5)n4)CCC3)cc2)cn1,240.0,weakly active
+CHEMBL3417415,Nc1ncc(-c2ccc(C3(c4noc(-c5cccnc5)n4)CCC3)cc2)cn1,250.0,weakly active
+CHEMBL3417414,Nc1ncc(-c2ccc(C3(c4noc(-c5ccccc5)n4)CCC3)cc2)cn1,470.0,weakly active
+CHEMBL3417413,CS(=O)(=O)Nc1nc(C2(c3ccc(-c4cnc(N)nc4)cc3)CCC2)no1,5000.0,weakly active
+CHEMBL3417412,CCNc1nc(C2(c3ccc(-c4cnc(N)nc4)cc3)CCC2)no1,460.0,weakly active
+CHEMBL3417411,Nc1ncc(-c2ccc(C3(c4noc(N)n4)CCC3)cc2)cn1,440.0,weakly active
+CHEMBL3417531,CC(C)(O)Cn1cc(-c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CC3)no2)cn1,2.1,highly active
+CHEMBL3417530,CN(C)CCn1cc(-c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CC3)no2)cn1,3.1,highly active
+CHEMBL3417529,CC(C)Nc1ncc(-c2ccc([C@](C)(c3noc(-c4cnn(CC(=O)N(C)C)c4)n3)C3CC3)cc2)cn1,1000.0,weakly active
+CHEMBL3417528,CCNc1ncc(-c2ccc(C(C)(c3noc(-c4cnn(CC(=O)N(C)C)c4)n3)C3CC3)cc2)cn1,370.0,weakly active
+CHEMBL3417527,CNc1ncc(-c2ccc([C@](C)(c3noc(-c4cnn(CC(=O)N(C)C)c4)n3)C3CC3)cc2)cn1,2.9,highly active
+CHEMBL3417526,CN(C)C(=O)Cn1cc(-c2nc([C@@](C)(c3ccc(-c4cnc(N)cn4)cc3)C3CC3)no2)cn1,1.2,highly active
+CHEMBL3417525,CN(C)C(=O)Cn1cc(-c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CC3)no2)cn1,1.7,highly active
+CHEMBL3417524,CN(C)C(=O)Cn1cc(-c2nc([C@@](C)(c3ccc(-c4ccc(N)nc4)cc3)C3CC3)no2)cn1,1.1,highly active
+CHEMBL3417523,Cn1cc(-c2nc([C@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CCC3)no2)cn1,140.0,weakly active
+CHEMBL3417522,Cn1cc(-c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CCC3)no2)cn1,2.6,highly active
+CHEMBL3417521,Cn1cc(-c2nc([C@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CC3)no2)cn1,18.0,intermediate
+CHEMBL3417520,Cn1cc(-c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CC3)no2)cn1,1.3,highly active
+CHEMBL3417519,CC(C)[C@@](C)(c1ccc(-c2cnc(N)nc2)cc1)c1noc(-c2cnn(C)c2)n1,7.7,highly active
+CHEMBL3417518,CC(C)[C@](C)(c1ccc(-c2cnc(N)nc2)cc1)c1noc(-c2cnn(C)c2)n1,1.6,highly active
+CHEMBL3417517,CC(C)C(C)(c1ccc(-c2cnc(N)nc2)cc1)c1noc(-c2cnn(C)c2)n1,2.0,highly active
+CHEMBL3417516,CC(C)C(c1ccc(-c2cnc(N)nc2)cc1)c1noc(-c2cnn(C)c2)n1,6.2,highly active
+CHEMBL3417515,Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CC(C)(C)C3)no2)cn1,35.0,intermediate
+CHEMBL3417514,Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CC3)no2)cn1,100.0,weakly active
+CHEMBL3417513,Cn1cc(-c2nc(C(C)(C)c3ccc(-c4cnc(N)nc4)cc3)no2)cn1,6.7,highly active
+CHEMBL3417512,Cn1cc(-c2nc(Cc3ccc(-c4cnc(N)nc4)cc3)no2)cn1,1000.0,weakly active
+CHEMBL3417511,CC(C)(O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)cn1,3.5,highly active
+CHEMBL3417510,CN(C)C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)cn1,3.6,highly active
+CHEMBL3417509,CN(C)CCn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)cn1,3.6,highly active
+CHEMBL3417508,NCCn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)cn1,2.6,highly active
+CHEMBL3417431,COCCn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)cn1,2.4,highly active
+CHEMBL3417430,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn(CC(=O)O)c5)n4)CCC3)cc2)cn1,18.0,intermediate
+CHEMBL3417429,Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)cn1,1.9,highly active
+CHEMBL3417428,Nc1ncc(-c2ccc(C3(c4noc(-c5cn[nH]c5)n4)CCC3)cc2)cn1,2.3,highly active
+CHEMBL3417427,Nc1ncc(-c2ccc(C3(c4noc(-c5cc[nH]n5)n4)CCC3)cc2)cn1,2.4,highly active
+CHEMBL3417426,Nc1ncc(-c2ccc(C3(c4noc(-c5cocn5)n4)CCC3)cc2)cn1,8.1,highly active
+CHEMBL3417425,Nc1ncc(-c2ccc(C3(c4noc(-c5cscn5)n4)CCC3)cc2)cn1,2.4,highly active
+CHEMBL3417424,Nc1ncc(-c2ccc(C3(c4noc(-c5nc[nH]n5)n4)CCC3)cc2)cn1,13.0,highly active
+CHEMBL3417423,Nc1ncc(-c2ccc(C3(c4noc(-c5c[nH]nn5)n4)CCC3)cc2)cn1,4.7,highly active
+CHEMBL3417422,Nc1ncc(-c2ccc(C3(c4noc(-c5c[nH]cn5)n4)CCC3)cc2)cn1,2.5,highly active
+CHEMBL3417421,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc[nH]c5=O)n4)CCC3)cc2)cn1,2.9,highly active
+CHEMBL3417420,Nc1ncc(-c2ccc(C3(c4noc(-c5ccncn5)n4)CCC3)cc2)cn1,14.0,highly active
+CHEMBL3417419,Nc1ncc(-c2ccc(C3(c4noc(-c5cccnn5)n4)CCC3)cc2)cn1,8.5,highly active
+CHEMBL3417418,Nc1ncc(-c2ccc(C3(c4noc(-c5cncnc5)n4)CCC3)cc2)cn1,6.0,highly active
+CHEMBL3417417,Nc1ncc(-c2ccc(C3(c4noc(-c5cnccn5)n4)CCC3)cc2)cn1,5.7,highly active
+CHEMBL3781057,Cc1ccccc1COc1ccc(-c2onc(C(=O)O)c2-c2ccc(Cl)cc2)cc1,1700.0,weakly active
+CHEMBL3780876,O=C(O)c1noc(-c2ccc(OCc3cccc(F)c3)cc2)c1-c1ccc(Cl)cc1,1300.0,weakly active
+CHEMBL3780411,Cc1ccc(COc2ccc(-c3onc(C(=O)O)c3-c3ccc(Cl)cc3)cc2)cc1,1400.0,weakly active
+CHEMBL3780838,N#Cc1cccc(COc2ccc(-c3onc(C(=O)O)c3-c3ccc(Cl)cc3)cc2)c1,4100.0,weakly active
+CHEMBL3781627,O=C(O)c1noc(-c2ccc(OCc3ccccc3Cl)cc2)c1-c1ccc(Cl)cc1,1200.0,weakly active
+CHEMBL3779965,O=C(O)c1noc(-c2ccc(OCc3ccccc3C(F)(F)F)cc2)c1-c1ccc(Cl)cc1,770.0,weakly active
+CHEMBL3780610,O=C(O)c1noc(-c2ccc(OCc3ccccn3)cc2)c1-c1ccc(Cl)cc1,4100.0,weakly active
+CHEMBL3781006,O=C(O)c1noc(-c2ccc(OCc3ccc4ccccc4n3)cc2)c1-c1ccc(Cl)cc1,240.0,weakly active
+CHEMBL3781044,O=C(O)c1noc(-c2ccc(OCc3nc4ccccc4s3)cc2)c1-c1ccc(Cl)cc1,240.0,weakly active
+CHEMBL3781585,CCOC(=O)c1noc(-c2ccc(OCc3ccccc3C)cc2)c1-c1ccc(Cl)cc1,10000.0,weakly active
+CHEMBL3897558,CC(C)Cc1ccc(C(C)c2nc3cc(OCc4ccccn4)ccc3n2Cc2ccccc2C(F)(F)F)cc1,150.0,weakly active
+CHEMBL3927809,C=CCOc1ccc2c(c1)nc(C(C)c1ccc(CC(C)C)cc1)n2Cc1ccccc1C(F)(F)F,170.0,weakly active
+CHEMBL3945688,COC(=O)COc1ccc2c(c1)nc(C(C)c1ccc(CC(C)C)cc1)n2Cc1ccccc1C(F)(F)F,210.0,weakly active
+CHEMBL3983042,CC(C)Cc1ccc(C(C)c2nc3cc(OCc4ccccc4C#N)ccc3n2Cc2ccccc2Cl)cc1,120.0,weakly active
+CHEMBL3954390,CC(C)Cc1ccc(C(C)c2nc3cc(C#N)ccc3n2Cc2ccccc2Cl)cc1,70.0,weakly active
+CHEMBL3689183,Cc1n[nH]cc1-c1nc(C2(c3ccc(-c4cnc(N)nc4)nc3)CCC2)no1,27.0,intermediate
+CHEMBL3684676,NC(=O)CNc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,5.0,highly active
+CHEMBL3684677,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CCNCC6)nc5)n4)CCC3)cn2)cn1,2.7,highly active
+CHEMBL3684678,Nc1ncc(-c2ccc(C3(c4noc(-c5cc[nH]n5)n4)CCC3)cn2)cn1,17.0,intermediate
+CHEMBL3684679,Cc1cccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)c1,8.8,highly active
+CHEMBL3684680,Cc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cc1,5.8,highly active
+CHEMBL3684681,CS(=O)(=O)c1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cc1,11.0,highly active
+CHEMBL3684682,CCNc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,2.0,highly active
+CHEMBL3684683,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(NC6CC6)nc5)n4)CCC3)cn2)cn1,2.9,highly active
+CHEMBL3684684,Nc1ncc(-c2ccc(C3(c4noc(-c5cc(N)[nH]n5)n4)CCC3)cn2)cn1,30.0,intermediate
+CHEMBL3684685,CS(=O)(=O)c1cccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)c1,78.0,weakly active
+CHEMBL3684686,CC(C)(O)CNc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,2.1,highly active
+CHEMBL3684687,CCOC(=O)CNc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,3.9,highly active
+CHEMBL3684688,Nc1ncc(-c2ccc(C3(c4noc(-c5c[nH]nn5)n4)CCC3)cn2)cn1,140.0,weakly active
+CHEMBL3684689,CN(C)c1nc(C2(c3ccc(-c4cnc(N)nc4)nc3)CCC2)no1,280.0,weakly active
+CHEMBL3684690,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(NCC(=O)O)nc5)n4)CCC3)cn2)cn1,11.0,highly active
+CHEMBL3684691,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(S(N)(=O)=O)cc5)n4)CCC3)cn2)cn1,8.7,highly active
+CHEMBL3684692,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(NCC6(O)CC6)nc5)n4)CCC3)cn2)cn1,1.8,highly active
+CHEMBL3684693,Nc1ncc(-c2ccc(C3(c4noc(-c5cccc(S(N)(=O)=O)c5)n4)CCC3)cn2)cn1,58.0,weakly active
+CHEMBL3684694,Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)c(C(F)(F)F)n1,9.2,highly active
+CHEMBL3684695,CC(C)(CO)Nc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,2.6,highly active
+CHEMBL3684696,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(OCCO)nc5)n4)CCC3)cn2)cn1,2.5,highly active
+CHEMBL3684697,Nc1ncc(-c2ccc(C3(c4noc(-c5cscn5)n4)CCC3)cn2)cn1,26.0,intermediate
+CHEMBL3684698,Nc1ncc(-c2ccc(C3(c4noc(-c5cocn5)n4)CCC3)cn2)cn1,110.0,weakly active
+CHEMBL3684699,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn6cccnc56)n4)CCC3)cn2)cn1,4.0,highly active
+CHEMBL3684700,Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)ccc1=O,110.0,weakly active
+CHEMBL3684701,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc6nccn6c5)n4)CCC3)cn2)cn1,12.4,highly active
+CHEMBL3684702,COCCn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,17.0,intermediate
+CHEMBL3684703,CC(CO)n1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,35.0,intermediate
+CHEMBL3684704,CC(C)(CO)n1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,33.0,intermediate
+CHEMBL3684705,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(-n6ccnc6)nc5)n4)CCC3)cn2)cn1,1.9,highly active
+CHEMBL3684706,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(O)cc5)n4)CCC3)cn2)cn1,2.9,highly active
+CHEMBL3684707,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(NC(CO)CO)nc5)n4)CCC3)cn2)cn1,2.2,highly active
+CHEMBL3684708,CN(C)C(=O)[C@@H]1CCCN1c1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,40.0,intermediate
+CHEMBL3684709,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CCC[C@H]6C(=O)O)nc5)n4)CCC3)cn2)cn1,43.0,intermediate
+CHEMBL3684710,COC(=O)[C@@H]1CCCN1c1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,5.9,highly active
+CHEMBL3684711,Cn1cnnc1-c1nc(C2(c3ccc(-c4cnc(N)nc4)nc3)CCC2)no1,110.0,weakly active
+CHEMBL3684712,COC(=O)[C@H]1CNCCN1c1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,3.2,highly active
+CHEMBL3684713,COC(=O)[C@@H]1CN(c2ccc(-c3nc(C4(c5ccc(-c6cnc(N)nc6)nc5)CCC4)no3)cn2)CCN1,3.7,highly active
+CHEMBL3684714,COC(=O)[C@H]1CN(c2ccc(-c3nc(C4(c5ccc(-c6cnc(N)nc6)nc5)CCC4)no3)cn2)CCN1,3.3,highly active
+CHEMBL3684715,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CCN[C@H](C(=O)O)C6)nc5)n4)CCC3)cn2)cn1,7.7,highly active
+CHEMBL3684716,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CCN[C@@H](C(=O)O)C6)nc5)n4)CCC3)cn2)cn1,7.7,highly active
+CHEMBL3684717,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CC[C@@H](O)C6)nc5)n4)CCC3)cn2)cn1,1.2,highly active
+CHEMBL3684718,C[C@@H](O)CNc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,2.7,highly active
+CHEMBL3684719,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CCC[C@@H]6CO)nc5)n4)CCC3)cn2)cn1,3.1,highly active
+CHEMBL3684720,C[C@H](O)CNc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,2.4,highly active
+CHEMBL3684721,CCOC(=O)CCN1CCN(c2ccc(-c3nc(C4(c5ccc(-c6cnc(N)nc6)nc5)CCC4)no3)cn2)CC1,3.4,highly active
+CHEMBL3684722,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CC[C@H](O)C6)nc5)n4)CCC3)cn2)cn1,2.2,highly active
+CHEMBL3684723,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CCS(=O)(=O)CC6)nc5)n4)CCC3)cn2)cn1,3.7,highly active
+CHEMBL3684724,CS(=O)(=O)N1CCN(c2ccc(-c3nc(C4(c5ccc(-c6cnc(N)nc6)nc5)CCC4)no3)cn2)CC1,2.7,highly active
+CHEMBL3684725,CS(=O)(=O)CCNc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,4.8,highly active
+CHEMBL3684726,CS(=O)(=O)C1CCN(c2ccc(-c3nc(C4(c5ccc(-c6cnc(N)nc6)nc5)CCC4)no3)cn2)C1,2.6,highly active
+CHEMBL3684727,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CCN(CCC(=O)O)CC6)nc5)n4)CCC3)cn2)cn1,2.6,highly active
+CHEMBL3684728,CC(C)(O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,28.0,intermediate
+CHEMBL3684729,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn(C6COC6)c5)n4)CCC3)cn2)cn1,13.0,highly active
+CHEMBL3684730,COCCNc1cnc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,3.2,highly active
+CHEMBL3684731,CCNc1cnc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,2.4,highly active
+CHEMBL3684732,CNC(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,22.0,intermediate
+CHEMBL3684733,CN(C)C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,83.0,weakly active
+CHEMBL3684734,Nc1ncc(-c2ccc(C3(c4noc(-c5cnc(N6CCNCC6)cn5)n4)CCC3)cn2)cn1,7.9,highly active
+CHEMBL3684735,CN1CCN(c2cnc(-c3nc(C4(c5ccc(-c6cnc(N)nc6)nc5)CCC4)no3)cn2)CC1,1.8,highly active
+CHEMBL3684736,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CCNCC6)cc5)n4)CCC3)cn2)cn1,2.6,highly active
+CHEMBL3684737,CCn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,8.8,highly active
+CHEMBL3684738,CC(C)n1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,7.2,highly active
+CHEMBL3684739,CC(C)(C(=O)O)n1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,590.0,weakly active
+CHEMBL3684740,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn(C(F)F)c5)n4)CCC3)cn2)cn1,7.4,highly active
+CHEMBL3684741,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn(CCF)c5)n4)CCC3)cn2)cn1,9.5,highly active
+CHEMBL3684742,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn(CC(F)F)c5)n4)CCC3)cn2)cn1,6.1,highly active
+CHEMBL3684743,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn(CC(F)(F)F)c5)n4)CCC3)cn2)cn1,7.6,highly active
+CHEMBL3684744,NC(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,150.0,weakly active
+CHEMBL3684745,CS(=O)(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,58.0,weakly active
+CHEMBL3684746,Nc1ncc(-c2ccc(C3(c4noc(-c5cccnc5)n4)CCOCC3)cn2)cn1,610.0,weakly active
+CHEMBL3684747,Nc1ncc(-c2ccc(C3(c4noc(-c5cccnc5)n4)CCC3)cn2)cn1,25.0,intermediate
+CHEMBL3684748,Cc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,4.5,highly active
+CHEMBL3684749,Nc1ncc(-c2ccc(C3(c4noc(-c5c[nH]cn5)n4)CCC3)cn2)cn1,19.0,intermediate
+CHEMBL3684750,Nc1ncc(-c2ccc(C3(c4noc(N5CCCC5)n4)CCC3)cn2)cn1,92.0,weakly active
+CHEMBL3684751,Cn1cccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)c1=O,51.0,weakly active
+CHEMBL3684752,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc6[nH]ncc6c5)n4)CCC3)cn2)cn1,4.0,highly active
+CHEMBL3684753,Cc1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)[nH]n1,5.5,highly active
+CHEMBL3684754,COC(=O)c1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,25.0,intermediate
+CHEMBL3639836,CC(C)(O)c1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,17.0,intermediate
+CHEMBL3684755,N#Cc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,52.0,weakly active
+CHEMBL3684756,Nc1ncc(-c2ccc(C3(c4noc(-c5cccnc5Cl)n4)CCC3)cn2)cn1,4.1,highly active
+CHEMBL3684757,Cc1ncccc1-c1nc(C2(c3ccc(-c4cnc(N)nc4)nc3)CCC2)no1,21.0,intermediate
+CHEMBL3684758,COc1ccncc1-c1nc(C2(c3ccc(-c4cnc(N)nc4)nc3)CCC2)no1,18.0,intermediate
+CHEMBL3689096,Nc1ncc(-c2ccc(C3(c4noc(-c5ccncc5)n4)CCC3)cn2)cn1,55.0,weakly active
+CHEMBL3689097,Nc1ncc(-c2ccc(C3(c4noc(-c5cnccc5Cl)n4)CCC3)cn2)cn1,7.3,highly active
+CHEMBL3689098,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CCOCC6)nc5)n4)CCC3)cn2)cn1,2.7,highly active
+CHEMBL3689099,Nc1ncc(-c2ccc(C3(c4noc(-c5cn[nH]c5)n4)CCC3)cn2)cn1,7.0,highly active
+CHEMBL3689100,Nc1ncc(-c2ccc(C3(c4noc(-c5cc[nH]c(=O)c5)n4)CCC3)cn2)cn1,24.0,intermediate
+CHEMBL3689101,Nc1ncc(-c2ccc(C3(c4noc(-c5ccncn5)n4)CCC3)cn2)cn1,130.0,weakly active
+CHEMBL3689102,COc1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)ccn1,9.6,highly active
+CHEMBL3689103,Cc1nc(C)c(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)s1,8.1,highly active
+CHEMBL3689104,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc[nH]c5=O)n4)CCC3)cn2)cn1,29.0,intermediate
+CHEMBL3689105,COc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)c(OC)n1,7.3,highly active
+CHEMBL3689106,Cc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)c(=O)[nH]1,19.0,intermediate
+CHEMBL3689107,Nc1ncc(-c2ccc(C3(c4noc(-c5cnco5)n4)CCC3)cn2)cn1,110.0,weakly active
+CHEMBL3689108,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(Cl)nc5)n4)CCC3)cn2)cn1,7.5,highly active
+CHEMBL3689109,Nc1ncc(-c2ccc(C3(c4noc(-c5cncnc5)n4)CCC3)cn2)cn1,120.0,weakly active
+CHEMBL3689110,Cc1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)ccn1,24.0,intermediate
+CHEMBL3639879,Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,13.0,highly active
+CHEMBL3689111,Cc1n[nH]c(C)c1-c1nc(C2(c3ccc(-c4cnc(N)nc4)nc3)CCC2)no1,14.0,highly active
+CHEMBL3689112,Nc1ncc(-c2ccc(C3(c4noc(-c5ccnnc5)n4)CCC3)cn2)cn1,110.0,weakly active
+CHEMBL3689113,Nc1ncc(-c2ccc(C3(c4noc(-c5cccnc5N)n4)CCC3)cn2)cn1,17.0,intermediate
+CHEMBL3689114,Nc1ncc(-c2ccc(C3(c4noc(-c5cnccc5N)n4)CCC3)cn2)cn1,31.0,intermediate
+CHEMBL3689115,Nc1ncc(-c2ccc(C3(c4noc(-c5cnccc5O)n4)CCC3)cn2)cn1,190.0,weakly active
+CHEMBL3689116,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(=O)[nH]c5)n4)CCC3)cn2)cn1,48.0,intermediate
+CHEMBL3689117,Nc1ncc(-c2ccc(C3(c4noc(-c5cccnc5C(F)(F)F)n4)CCC3)cn2)cn1,14.0,highly active
+CHEMBL3689118,CN(C)c1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,2.4,highly active
+CHEMBL3689119,Nc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,4.2,highly active
+CHEMBL3689120,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CCCC6)nc5)n4)CCC3)cn2)cn1,3.3,highly active
+CHEMBL3689121,CNc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,2.4,highly active
+CHEMBL3689122,CC(C)Nc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,1.5,highly active
+CHEMBL3689123,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(NCCO)nc5)n4)CCC3)cn2)cn1,1.9,highly active
+CHEMBL3689124,CN(CCO)c1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,4.3,highly active
+CHEMBL3689125,COCCN(C)c1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,3.0,highly active
+CHEMBL3689126,COCCNc1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,2.8,highly active
+CHEMBL3689127,CS(=O)(=O)c1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,62.0,weakly active
+CHEMBL3689128,Nc1ncc(-c2ccc(C3(c4noc(-c5nc[nH]n5)n4)CCC3)cn2)cn1,200.0,weakly active
+CHEMBL3689129,Cc1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)n(C)n1,28.0,intermediate
+CHEMBL3689130,CNc1ncccc1-c1nc(C2(c3ccc(-c4cnc(N)nc4)nc3)CCC2)no1,28.0,intermediate
+CHEMBL3689131,Nc1ncc(-c2ccc(C3(c4noc(-c5cncs5)n4)CCC3)cn2)cn1,31.0,intermediate
+CHEMBL3689132,Cn1nccc1-c1nc(C2(c3ccc(-c4cnc(N)nc4)nc3)CCC2)no1,11.0,highly active
+CHEMBL3689133,Nc1ncc(-c2ccc(C3(c4noc(-c5ccc(N6CCNC(=O)C6)nc5)n4)CCC3)cn2)cn1,1.8,highly active
+CHEMBL3689134,CN(C)c1ncccc1-c1nc(C2(c3ccc(-c4cnc(N)nc4)nc3)CCC2)no1,34.0,intermediate
+CHEMBL3689135,Cn1ccc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)n1,40.0,intermediate
+CHEMBL3689136,Nc1ncc(-c2ccc(C3(c4noc(-c5cccnc5N5CCOCC5)n4)CCC3)cn2)cn1,66.0,weakly active
+CHEMBL3689137,Nc1ncc(-c2ccc(C3(c4noc(-c5cnccn5)n4)CCC3)cn2)cn1,47.0,intermediate
+CHEMBL3689138,Cc1cnc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,26.0,intermediate
+CHEMBL3689139,Cn1cnc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)c1,52.0,weakly active
+CHEMBL3689140,Nc1ncc(-c2ccc(C3(c4noc(-c5cn[nH]c5)n4)CCC3)nc2)cn1,46.0,intermediate
+CHEMBL3689141,Cc1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cn4)CCC3)no2)[nH]n1,43.0,intermediate
+CHEMBL3689142,Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cn4)CCC3)no2)cn1,81.0,weakly active
+CHEMBL3689143,Cc1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cn4)CCOCC3)no2)n(C)n1,540.0,weakly active
+CHEMBL3689144,Nc1ncc(-c2ccc(C3(c4noc(-c5cccnc5)n4)CCOCC3)nc2)cn1,580.0,weakly active
+CHEMBL3689145,Nc1ncc(-c2ccc(C3(c4noc(-c5ccncc5)n4)CCOCC3)nc2)cn1,970.0,weakly active
+CHEMBL3689146,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn(C6CCS(=O)(=O)C6)c5)n4)CCC3)cn2)cn1,28.0,intermediate
+CHEMBL3689147,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn(CCN6CCOCC6)c5)n4)CCC3)cn2)cn1,15.0,highly active
+CHEMBL3689148,N#CCn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,11.0,highly active
+CHEMBL3689149,CN(C)CCn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,16.0,intermediate
+CHEMBL3689150,CN(C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1)C(C)(C)C,14.0,highly active
+CHEMBL3689151,CC(C)(C)NC(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,14.0,highly active
+CHEMBL3689152,Nc1cnc(-c2ccc(C3(c4noc(-c5cnn(C6COC6)c5)n4)CCC3)cn2)cn1,8.3,highly active
+CHEMBL3689153,CC(C)(O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)cn5)nc4)CCC3)no2)cn1,15.0,highly active
+CHEMBL3689154,CC(C)(Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1)C(N)=O,65.0,weakly active
+CHEMBL3689182,CC(C)(C#N)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,25.0,intermediate
+CHEMBL3689155,CC(C)(C(N)=O)n1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,160.0,weakly active
+CHEMBL3689156,CC(C)(N)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,68.0,weakly active
+CHEMBL3689157,CC(C)(C#N)n1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,18.0,intermediate
+CHEMBL3689158,Nc1ccc(-c2ccc(C3(c4noc(-c5cnn(C6COC6)c5)n4)CCC3)cn2)cn1,13.0,highly active
+CHEMBL3689159,CC(C)(O)Cn1cc(-c2nc(C3(c4ccc(-c5ccc(N)nc5)nc4)CCC3)no2)cn1,34.0,intermediate
+CHEMBL3689160,Nc1ncc(-c2ccc(C3(c4noc(N5CCC(O)CC5)n4)CCC3)cn2)cn1,170.0,weakly active
+CHEMBL3689161,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn(CC(=O)NC6CC6)c5)n4)CCC3)cn2)cn1,63.0,weakly active
+CHEMBL3689162,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn(CC(=O)NCC6CCCO6)c5)n4)CCC3)cn2)cn1,97.0,weakly active
+CHEMBL3689163,CC(C)NC(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,79.0,weakly active
+CHEMBL3689164,CCNC(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,100.0,weakly active
+CHEMBL3689165,CN(CC1CCCO1)C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,83.0,weakly active
+CHEMBL3689166,CN(C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1)C1CC1,95.0,weakly active
+CHEMBL3689167,COC1CCN(C(=O)Cn2cc(-c3nc(C4(c5ccc(-c6cnc(N)nc6)nc5)CCC4)no3)cn2)C1,250.0,weakly active
+CHEMBL3689168,CCN(C)C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,130.0,weakly active
+CHEMBL3689169,CN(C)C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5ccc(N)nc5)nc4)CCC3)no2)cn1,110.0,weakly active
+CHEMBL3689170,CN(C)C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)cn5)nc4)CCC3)no2)cn1,43.0,intermediate
+CHEMBL3689171,CNc1ncc(-c2ccc(C3(c4noc(-c5cnn(CC(C)(C)O)c5)n4)CCC3)cn2)cn1,73.0,weakly active
+CHEMBL3689172,CC(C)(O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)c(C#N)c5)nc4)CCC3)no2)cn1,200.0,weakly active
+CHEMBL3689173,N#Cc1cc(-c2ccc(C3(c4noc(-c5cnn(C6COC6)c5)n4)CCC3)cn2)cnc1N,140.0,weakly active
+CHEMBL3689174,CNc1cnc(-c2ccc(C3(c4noc(-c5cnn(C)c5)n4)CCC3)cn2)cn1,33.0,intermediate
+CHEMBL3689175,N#CCn1cc(-c2nc(C3(c4ccc(-c5cnc(N)cn5)nc4)CCC3)no2)cn1,48.0,intermediate
+CHEMBL3689176,COCCn1cc(-c2nc(C3(c4ccc(-c5cnc(N)cn5)nc4)CCC3)no2)cn1,50.0,weakly active
+CHEMBL3689177,Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)cn5)nc4)CCC3)no2)cn1,39.0,intermediate
+CHEMBL3689178,Cc1nc(N)ncc1-c1ccc(C2(c3noc(-c4cnn(CC(C)(C)O)c4)n3)CCC2)cn1,830.0,weakly active
+CHEMBL3689179,CNc1cnc(-c2ccc(C3(c4noc(-c5cnn(C6COC6)c5)n4)CCC3)cn2)cn1,23.0,intermediate
+CHEMBL3689180,CNc1cnc(-c2ccc(C3(c4noc(-c5cnn(CC(C)(C)O)c5)n4)CCC3)cn2)cn1,32.0,intermediate
+CHEMBL3689181,CC(C)(C)CC(=O)N1CCN(c2ccc(-c3nc(C4(c5ccc(-c6cnc(N)nc6)nc5)CCC4)no3)cn2)CC1,3.8,highly active
+CHEMBL3641468,CC(C)(C)n1c(-c2nc(C#N)ccc2-n2cncn2)nc2cc(-c3cnc(N)nc3)ccc21,7.1,highly active
+CHEMBL3641469,Cc1ncn(-c2ccc(C#N)nc2-c2nc3cc(-c4cnc(N)nc4)ccc3n2C(C)(C)C)n1,4.2,highly active
+CHEMBL3641470,Cc1ncnn1-c1ccc(C#N)nc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,5.9,highly active
+CHEMBL3641471,CC(C)(C)n1c(-c2nc(C3CC3)ccc2-n2cncn2)nc2cc(-c3cnc(N)nc3)ccc21,13.0,highly active
+CHEMBL3641472,Cc1ncn(-c2ccc(C#N)nc2-c2nc3cc(-c4cnc(N)nc4)ccc3n2C2(C)CCC2)n1,29.0,intermediate
+CHEMBL3641473,Cc1ncnn1-c1ccc(C#N)nc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C1(C)CCC1,86.0,weakly active
+CHEMBL3641474,COC(=O)c1cccnc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,540.0,weakly active
+CHEMBL3641475,CNC(=O)c1cccnc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,620.0,weakly active
+CHEMBL3641476,COC(=O)c1ccc(C#N)nc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,110.0,weakly active
+CHEMBL3641477,CNC(=O)c1ccc(C#N)nc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,138.0,weakly active
+CHEMBL3641478,COc1cccc(-c2nc3cc(-c4cnc(N)nc4)ccc3n2C(C)(C)C)n1,46.0,intermediate
+CHEMBL3641479,CC(C)(C)n1c(-c2ccccn2)nc2cc(-c3cnc(N)nc3)ccc21,700.0,weakly active
+CHEMBL3641480,CC(C)(C)Oc1cccc(-c2nc3cc(-c4cnc(N)nc4)ccc3n2C(C)(C)C)n1,51.0,weakly active
+CHEMBL3641481,CC(C)(C)n1c(-c2cccc(F)n2)nc2cc(-c3cnc(N)nc3)ccc21,279.0,weakly active
+CHEMBL3641482,CC(C)(C)n1c(-c2cccc(F)n2)nc2cc(-c3cnc(NCc4cccc(F)n4)nc3)ccc21,870.0,weakly active
+CHEMBL3641483,COc1cccnc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,960.0,weakly active
+CHEMBL3641484,COc1cc(-c2nc3cc(-c4cnc(N)nc4)ccc3n2C(C)(C)C)c(F)cn1,58.0,weakly active
+CHEMBL3641485,CC(C)(C)n1c(-c2ccncc2)nc2cc(-c3cnc(N)nc3)ccc21,450.0,weakly active
+CHEMBL3641486,CC(C)(C)n1c(-c2ccnc(Br)c2)nc2cc(-c3cnc(N)nc3)ccc21,270.0,weakly active
+CHEMBL3641487,CC(C)(C)n1c(-c2cccnc2-n2cncn2)nc2cc(-c3cnc(N)nc3)ccc21,19.0,intermediate
+CHEMBL3641488,CC(C)(C)n1c(-c2cc(F)cnc2-n2cncn2)nc2cc(-c3cnc(N)nc3)ccc21,20.0,intermediate
+CHEMBL3641489,CC(C)(C)n1c(-c2cc(Cl)cnc2-n2cncn2)nc2cc(-c3cnc(N)nc3)ccc21,3.2,highly active
+CHEMBL3641490,CC(C)(C)n1c(-c2cc(Br)cnc2-n2cncn2)nc2cc(-c3cnc(N)nc3)ccc21,4.0,highly active
+CHEMBL3641491,Cc1ncnn1-c1ncccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,23.0,intermediate
+CHEMBL3639403,Cc1ncn(-c2ncccc2-c2nc3cc(-c4cnc(N)nc4)ccc3n2C(C)(C)C)n1,12.0,highly active
+CHEMBL3641492,CC(C)(C)n1c(-c2cc(C#N)cnc2-n2cncn2)nc2cc(-c3cnc(N)nc3)ccc21,10.0,highly active
+CHEMBL3641493,CCC(C)(C)n1c(-c2cc(Br)cnc2-n2cncn2)nc2cc(-c3cnc(N)nc3)ccc21,23.0,intermediate
+CHEMBL3641494,Cc1ccc(-c2nc3cc(-c4cnc(N)nc4)ccc3n2C(C)(C)C)c(-n2cncn2)n1,17.0,intermediate
+CHEMBL3641495,COc1cncc(-c2nc3cc(-c4cnc(N)nc4)ccc3n2C(C)(C)C)c1,300.0,weakly active
+CHEMBL3641496,CC(C)(C)n1c(-c2ccc(N3CCOCC3)nc2)nc2cc(-c3cnc(N)nc3)ccc21,180.0,weakly active
+CHEMBL3641497,CC(C)(C)n1c(-c2cccnc2)nc2cc(-c3cnc(N)nc3)ccc21,542.0,weakly active
+CHEMBL3641498,COc1ncccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,220.0,weakly active
+CHEMBL3641499,CCOc1ncccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,34.0,intermediate
+CHEMBL3681320,CC(C)(C)n1c(-c2ccccc2C(=O)O)nc2cc(-c3cnc(N)nc3)ccc21,1400.0,weakly active
+CHEMBL3681321,CC(C)(C)n1c(-c2ccccc2C(=O)NC2CC2)nc2cc(-c3cnc(N)nc3)ccc21,25.2,intermediate
+CHEMBL3681322,CC(C)(C)n1c(-c2ccccc2C(=O)Nc2ccncc2)nc2cc(-c3cnc(N)nc3)ccc21,0.91,highly active
+CHEMBL3681323,CNC(=O)c1ccccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,11.4,highly active
+CHEMBL3681324,CNC(=O)c1ccc(F)cc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,5.07,highly active
+CHEMBL3681325,CNC(=O)c1cc(OC)ccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,21.9,intermediate
+CHEMBL3681326,CNC(=O)c1ccc(C#N)cc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,7.4,highly active
+CHEMBL3681327,CNC(=O)c1ccc(-c2nn[nH]n2)cc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,110.9,weakly active
+CHEMBL3681328,CC(C)(C)n1c(-c2cc(C#N)ccc2C(=O)NC#N)nc2cc(-c3cnc(N)nc3)ccc21,6.09,highly active
+CHEMBL3681329,CC(C)(C)n1c(-c2cc(C#N)ccc2C(=O)NS(C)(=O)=O)nc2cc(-c3cnc(N)nc3)ccc21,55.6,weakly active
+CHEMBL3681330,CN(C)C(=O)c1ccc(F)c(-c2nc3cc(-c4cnc(N)nc4)ccc3n2C(C)(C)C)c1,610.0,weakly active
+CHEMBL3681331,CC(C)(C)n1c(-c2ccccc2C(N)=O)nc2cc(-c3cnc(N)nc3)ccc21,35.4,intermediate
+CHEMBL3681332,CC(C)(C)n1c(-c2cc(C(=O)O)ccc2F)nc2cc(-c3cnc(N)nc3)ccc21,220.0,weakly active
+CHEMBL3681333,CC(C)(C)n1c(-c2cccc(C(=O)O)c2)nc2cc(-c3cnc(N)nc3)ccc21,644.9,weakly active
+CHEMBL3681334,COC(=O)c1ccccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,22.0,intermediate
+CHEMBL3681335,CC(C)(C)n1c(-c2ccccc2C(=O)NCC2CCCO2)nc2cc(-c3cnc(N)nc3)ccc21,18.8,intermediate
+CHEMBL3681347,COCCNC(=O)c1ccccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,43.8,intermediate
+CHEMBL3681348,CC(C)(C)n1c(-c2ccccc2C(=O)Nc2ccccn2)nc2cc(-c3cnc(N)nc3)ccc21,2.2,highly active
+CHEMBL3681349,CC(C)(C)NC(=O)c1ccccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,14.7,highly active
+CHEMBL3681336,CC(C)(C)n1c(-c2ccccc2C(=O)Nc2cccnc2)nc2cc(-c3cnc(N)nc3)ccc21,1.5,highly active
+CHEMBL3681337,CCNC(=O)c1ccccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,17.4,intermediate
+CHEMBL3681338,CN(C)CCNC(=O)c1ccccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,140.0,weakly active
+CHEMBL3681339,CC(C)(C)n1c(-c2ccccc2C(=O)NC2CCNCC2)nc2cc(-c3cnc(N)nc3)ccc21,460.0,weakly active
+CHEMBL3681340,CC(C)NC(=O)c1ccccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,34.6,intermediate
+CHEMBL3681341,CN(C(=O)c1ccccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C)c1ccccn1,180.0,weakly active
+CHEMBL3681342,CC(C)(C)n1c(-c2ccccc2C(=O)N2CCOCC2)nc2cc(-c3cnc(N)nc3)ccc21,520.0,weakly active
+CHEMBL3681343,CN(C)C(=O)c1ccccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,200.0,weakly active
+CHEMBL3681344,CNC(=O)c1cc(F)ccc1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,20.0,intermediate
+CHEMBL3681345,CNC(=O)c1cccc(F)c1-c1nc2cc(-c3cnc(N)nc3)ccc2n1C(C)(C)C,15.8,intermediate
+CHEMBL3681346,COc1cncc(-c2ccc3c(c2)nc(-c2cccc(C(N)=O)c2)n3C(C)(C)C)c1,4700.0,weakly active
+CHEMBL4094923,Cc1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)[nH]n1,80.0,weakly active
+CHEMBL4072498,CC(C)[C@](C)(c1ccc(-c2cnc(N)nc2)nc1)c1noc(-c2cnn(CC(C)(C)O)c2)n1,13.0,highly active
+CHEMBL4096057,CC(C)(O)Cn1cc(-c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)nc3)C3CC3)no2)cn1,6.3,highly active
+CHEMBL4068746,CC(C)[C@](C)(c1ccc(-c2cnc(N)nc2)nc1)c1noc(-c2cnn(CC#N)c2)n1,23.0,intermediate
+CHEMBL4103813,C[C@@](c1ccc(-c2cnc(N)nc2)nc1)(c1noc(-c2cnn(CC#N)c2)n1)C1CC1,8.1,highly active
+CHEMBL4079550,CC(C)[C@](C)(c1ccc(-c2cnc(N)nc2)nc1)c1noc(-c2cnn(C)c2)n1,16.0,intermediate
+CHEMBL4080469,Cn1cc(-c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)nc3)C3CC3)no2)cn1,3.0,highly active
+CHEMBL4098484,CC(C)[C@](C)(c1ccc(-c2cnc(N)nc2)nc1)c1noc(-c2cnn(C3COC3)c2)n1,6.6,highly active
+CHEMBL4088331,C[C@@](c1ccc(-c2cnc(N)nc2)nc1)(c1noc(-c2cnn(C3COC3)c2)n1)C1CC1,1.5,highly active
+CHEMBL4060091,CC(C)[C@](C)(c1ccc(-c2cnc(N)nc2)nc1)c1noc(-c2cnn(CC(=O)N(C)C)c2)n1,54.0,weakly active
+CHEMBL4072041,CN(C)C(=O)Cn1cc(-c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)nc3)C3CC3)no2)cn1,2.9,highly active
+CHEMBL4099001,CC1(O)CCN(c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)nc3)C3CC3)no2)CC1,97.0,weakly active
+CHEMBL4098074,C[C@@](c1ccc(-c2cnc(N)nc2)nc1)(c1noc(N2CCC(O)CC2)n1)C1CC1,434.0,weakly active
+CHEMBL4068263,CC(C)(O)CN1CCN(c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CC3)no2)CC1,53.0,weakly active
+CHEMBL4095628,CN(c1cnn(C)c1)c1nc([C@@](C)(c2ccc(-c3cnc(N)nc3)cc2)C2CC2)no1,29.0,intermediate
+CHEMBL4059620,CN(C)C(=O)N1CCN(c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CC3)no2)CC1,12.0,highly active
+CHEMBL4087927,CC1(O)CN(c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CC3)no2)C1,16.0,intermediate
+CHEMBL4081751,C[C@@](c1ccc(-c2cnc(N)nc2)cc1)(c1noc(N2CCC(O)CC2)n1)C1CC1,5.2,highly active
+CHEMBL4099770,CC(C)[C@](C)(c1ccc(-c2cnc(N)nc2)cc1)c1noc(N2CCC(O)CC2)n1,7.3,highly active
+CHEMBL4105047,CC1(O)CCN(c2nc([C@@](C)(c3ccc(-c4cnc(N)nc4)cc3)C3CC3)no2)CC1,5.6,highly active
+CHEMBL4080822,CC(C)[C@](C)(c1ccc(-c2cnc(N)nc2)cc1)c1noc(N2CCC(C)(O)CC2)n1,3.1,highly active
+CHEMBL4097345,CC(C)OC1CCN(c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)CC1,48.0,intermediate
+CHEMBL4070163,Nc1ncc(-c2ccc(C3(c4noc(N5CCC(CO)CC5)n4)CCC3)cc2)cn1,46.0,intermediate
+CHEMBL4078361,CC1(O)CCN(c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)CC1,17.0,intermediate
+CHEMBL4096407,Nc1ncc(-c2ccc(C3(c4noc(N5CCC(O)CC5)n4)CCC3)cc2)cn1,18.0,intermediate
+CHEMBL4067453,Nc1ncc(-c2ccc(C3(c4noc(N5CC[C@H](O)C5)n4)CCC3)cc2)cn1,36.0,intermediate
+CHEMBL4088690,Nc1ncc(-c2ccc(C3(c4noc(N5CC(O)C5)n4)CCC3)cc2)cn1,160.0,weakly active
+CHEMBL4065666,Nc1ncc(-c2ccc(C3(c4noc(N5CCN(CC6CCCO6)CC5)n4)CCC3)cc2)cn1,92.0,weakly active
+CHEMBL4093301,Nc1ncc(-c2ccc(C3(c4noc(N5CCNCC5)n4)CCC3)cc2)cn1,324.0,weakly active
+CHEMBL4074281,Nc1ncc(-c2ccc(C3(c4noc(N5CCCCC5)n4)CCC3)cc2)cn1,6.5,highly active
+CHEMBL4101030,Nc1ncc(-c2ccc(C3(c4noc(N5CCCC5)n4)CCC3)cc2)cn1,8.3,highly active
+CHEMBL4084576,CN(C)c1nc(C2(c3ccc(-c4cnc(N)nc4)cc3)CCC2)no1,21.0,intermediate
+CHEMBL4071532,Nc1ncc(-c2ccc(C3(c4noc(-c5cnn(C6COC6)c5)n4)CCC3)cc2)cn1,1.9,highly active
+CHEMBL4103286,CC(C)(CO)n1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)cn1,4.0,highly active
+CHEMBL4091165,N#CCCn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)nc4)CCC3)no2)cn1,11.0,highly active
+CHEMBL4080876,N#CCCn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)cn1,1.0,highly active
+CHEMBL4088763,CN(C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)cn1)C(C)(C)C,1.0,highly active
+CHEMBL4092404,CC(C)(C)NC(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CCC3)no2)cn1,3.7,highly active
+CHEMBL4246500,CC(C)Cc1ccc(C(C)c2nc3c(CC(=O)O)cccc3n2Cc2ccccc2Cl)cc1,1000.0,weakly active
+CHEMBL4246974,CC(C)Cc1ccc(C(C)c2nc3c(CCC(=O)O)cccc3n2Cc2ccccc2Cl)cc1,190.0,weakly active
+CHEMBL4251024,CC(C)Cc1ccc(C(C)c2nc3cc(CCC(=O)O)ccc3n2Cc2ccccc2Cl)cc1,50.0,weakly active
+CHEMBL4246749,CC(C)Cc1ccc(C(C)c2nc3cc(-c4ccc(C(=O)O)cc4)ccc3n2Cc2ccccc2Cl)cc1,40.0,intermediate
+CHEMBL4240446,CC(C)Cc1ccc(C(C)c2nc3cc(-c4ccccc4C(=O)O)ccc3n2Cc2ccccc2Cl)cc1,1100.0,weakly active
+CHEMBL4250561,CC(C)Cc1ccc(C(C)c2nc3cc(-c4cccc(C(=O)O)c4)ccc3n2Cc2ccccc2Cl)cc1,74.0,weakly active
+CHEMBL4246028,CC(C)Cc1ccc(C(C)c2nc3cc(OCC(=O)O)ccc3n2Cc2ccccc2Cl)cc1,180.0,weakly active
+CHEMBL4239176,CC(C)Cc1ccc(C(C)c2nc3cc(OC(C)(C)C(=O)O)ccc3n2Cc2ccccc2Cl)cc1,200.0,weakly active
+CHEMBL4247181,Cc1nc(-c2ccc3c(c2)nc(C(C)c2ccc(CC(C)C)cc2)n3Cc2ccccc2Cl)no1,180.0,weakly active
+CHEMBL4242947,CC(C)Cc1ccc(C(C)c2nc3cc(-c4noc(=O)[nH]4)ccc3n2Cc2ccccc2Cl)cc1,270.0,weakly active
+CHEMBL4250180,CC(C)Cc1ccc(C(C)c2nc3cc(-c4nnn[nH]4)ccc3n2Cc2ccccc2Cl)cc1,320.0,weakly active
+CHEMBL4245924,CC(C)Cc1ccc(C(C)c2nc3cc(C(N)=S)ccc3n2Cc2ccccc2Cl)cc1,160.0,weakly active
+CHEMBL4251226,CC(C)Cc1ccc(C(C)c2nc3cc(-c4nc(C(=O)O)cs4)ccc3n2Cc2ccccc2Cl)cc1,150.0,weakly active
+CHEMBL4247640,CC(C)Cc1ccc(C(C)c2nc3cc(-c4nnco4)ccc3n2Cc2ccccc2Cl)cc1,90.0,weakly active
+CHEMBL4247178,CC(C)Cc1ccc(C(C)c2nc3cc(-c4n[nH]c(=O)o4)ccc3n2Cc2ccccc2Cl)cc1,100.0,weakly active
+CHEMBL4251469,CC(C)Cc1ccc(C(C)c2nc3cc(-c4n[nH]c(=S)o4)ccc3n2Cc2ccccc2Cl)cc1,50.0,weakly active
+CHEMBL4251022,CC(C)CCc1ccc(C(C)c2nc3cc(C#N)ccc3n2Cc2ccccc2Cl)cc1,18000.0,weakly active
+CHEMBL4240912,CC(c1ccc(CC(C)(C)C)cc1)c1nc2cc(C#N)ccc2n1Cc1ccccc1Cl,1700.0,weakly active
+CHEMBL4240443,CCC(C)c1ccc(C(C)c2nc3cc(C#N)ccc3n2Cc2ccccc2Cl)cc1,700.0,weakly active
+CHEMBL4241055,CC(C)Cc1ccc(C(C)c2nc3cc(C(N)=O)ccc3n2Cc2ccccc2Cl)cc1,130.0,weakly active
+CHEMBL4250303,CC(C)Cc1ccc(C(C)c2nc3c(C(=O)O)cccc3n2Cc2ccccc2Cl)cc1,400.0,weakly active
+CHEMBL4249435,CC(C)Cc1ccc(C(C)c2nc3cc(CC(=O)O)ccc3n2Cc2ccccc2Cl)cc1,450.0,weakly active
+CHEMBL4239733,CC(C)Cc1ccc(C(C)c2nc3cc(C(=O)O)ccc3n2Cc2ccccc2Cl)cc1,280.0,weakly active
+CHEMBL4247754,CC(C)Cc1ccc(C(C)c2nc3cc(S(N)(=O)=O)ccc3n2Cc2ccccc2Cl)cc1,280.0,weakly active
+CHEMBL4244646,N#Cc1ccc2c(c1)nc(NCCc1c[nH]c3ccccc13)n2Cc1ccccc1Cl,8800.0,weakly active
+CHEMBL4244196,N#Cc1ccc2c(c1)nc(NCc1ccc3cc[nH]c3c1)n2Cc1ccccc1Cl,10000.0,weakly active
+CHEMBL4248447,N#Cc1ccc2c(c1)nc(NCc1ccc3[nH]ccc3c1)n2Cc1ccccc1Cl,3800.0,weakly active
+CHEMBL4247819,N#Cc1ccc2c(c1)nc(CCc1ccc(-c3cnc(N)cn3)cc1)n2Cc1ccccc1Cl,260.0,weakly active
+CHEMBL4243603,N#Cc1ccc2c(c1)nc(CCc1ccc(-c3ccc(N)nn3)cc1)n2Cc1ccccc1Cl,660.0,weakly active
+CHEMBL4249908,N#Cc1ccc2c(c1)nc(CCc1ccc(-c3ccc(N)nc3)cc1)n2Cc1ccccc1Cl,250.0,weakly active
+CHEMBL4239812,N#Cc1ccc2c(c1)nc(CCc1ccc(-c3cnc(N)nc3)cc1)n2Cc1ccccc1Cl,370.0,weakly active
+CHEMBL4240262,CC(Cc1ccc(-c2cnc(N)nc2)cc1)c1nc2cc(C#N)ccc2n1Cc1ccccc1Cl,420.0,weakly active
+CHEMBL4250880,C=C(Cc1ccc(-c2cnc(N)nc2)cc1)c1nc2cc(C#N)ccc2n1Cc1ccccc1Cl,370.0,weakly active
+CHEMBL4291038,Cc1cc(OCc2nc3ccccc3s2)ccc1NC(=O)Nc1ccc(Cl)c(Cl)c1,200.0,weakly active
+CHEMBL4287848,Cc1noc(-c2ccc(OCc3ccc4ccccc4n3)cc2)c1-c1ccc(Cl)cc1,4400.0,weakly active
+CHEMBL4562028,Cc1cc(-c2ccc3c([C@@H]4C[C@H]5C[C@H]5C[C@H]4C(=O)Nc4cn(C)nc4C(N)=O)noc3c2)n[nH]1,125.89,weakly active
+CHEMBL4472842,Cc1cc(-c2ccc3c([C@@H]4CCCC[C@H]4C(=O)Nc4cn(C)nc4C(N)=O)noc3c2)n[nH]1,63.1,weakly active
+CHEMBL4471402,CC(C)(O)CNC(=O)c1cnc(NC(=O)[C@@H]2CCCC[C@H]2C(=O)c2ccc(-c3cc[nH]n3)cc2)cn1,100.0,weakly active
+CHEMBL4589058,CC(C)(CNC(=O)[C@@H]1CCCC[C@H]1C(=O)c1ccc(-c2cc[nH]n2)cc1)S(C)(=O)=O,125.89,weakly active
+CHEMBL4527700,Cn1ncc(NC(=O)[C@@H]2C[C@@H]3C[C@@H]3C[C@H]2C(=O)c2ccc(-c3cc[nH]n3)cc2)c1C(F)(F)F,50.12,weakly active
+CHEMBL4470157,Cn1cc(NC(=O)[C@@H]2C[C@@H]3C[C@@H]3C[C@H]2C(=O)c2ccc(-c3cc[nH]n3)cc2)c(C(F)(F)F)n1,25.12,intermediate
+CHEMBL4458304,Cc1nn(C)cc1NC(=O)[C@@H]1[C@H]2CC[C@H](CC2)[C@H]1C(=O)c1ccc(-c2cc[nH]n2)cc1F,199.53,weakly active
+CHEMBL4442899,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cn(C)nc3C(N)=O)c(F)c2)[nH]n1,158.49,weakly active
+CHEMBL4554158,Cc1nn(C)cc1NC(=O)[C@@H]1CCCC[C@H]1C(=O)c1ccc(-c2cc[nH]n2)cc1F,63.1,weakly active
+CHEMBL4578760,Cc1cc(-c2cc[nH]n2)ccc1C(=O)[C@@H]1CCCC[C@H]1C(=O)Nc1cn(C)nc1C,794.33,weakly active
+CHEMBL4525902,Cc1nn(C)cc1NC(=O)[C@@H]1CCCC[C@H]1C(=O)c1ccc(-c2cc[nH]n2)nc1,3981.07,weakly active
+CHEMBL4450838,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cn(C)nc3C(N)=O)cc2)[nH]n1,199.53,weakly active
+CHEMBL4555790,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cn(C)nc3C#N)cc2)n[nH]1,100.0,weakly active
+CHEMBL4457556,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cn(C)nc3C(F)F)cc2)n[nH]1,63.1,weakly active
+CHEMBL4438207,Cn1cc(NC(=O)[C@@H]2CCCC[C@H]2C(=O)c2ccc(-c3cc[nH]n3)cc2)c(OC(F)F)n1,100.0,weakly active
+CHEMBL4534060,Cn1ncc(NC(=O)[C@@H]2CCCC[C@H]2C(=O)c2ccc(-c3cc[nH]n3)cc2)c1C(F)(F)F,50.12,weakly active
+CHEMBL4463314,Cn1cc(NC(=O)[C@@H]2CCCC[C@H]2C(=O)c2ccc(-c3cc[nH]n3)cc2)c(C(F)(F)F)n1,50.12,weakly active
+CHEMBL4533700,O=C(Nc1cnn2cccnc12)[C@@H]1CCCC[C@H]1C(=O)c1ccc(-c2cc[nH]n2)cc1,39.81,intermediate
+CHEMBL4528662,COc1cc(NC(=O)[C@@H]2CCCC[C@H]2C(=O)c2ccc(-c3cc[nH]n3)cc2)ncn1,15.85,intermediate
+CHEMBL4454073,Cc1nn(C)cc1N(C)C(=O)[C@@H]1CCCC[C@H]1C(=O)c1ccc(-c2cc[nH]n2)cc1,251.19,weakly active
+CHEMBL4516184,O=C(NCCc1ccccn1)[C@@H]1CCCC[C@H]1C(=O)c1ccc(-c2cc[nH]n2)cc1,2511.89,weakly active
+CHEMBL4528928,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cn(C)nc3C)cc2)n[nH]1,63.1,weakly active
+CHEMBL4570583,Cc1nn(C)cc1NC(=O)[C@@H]1CCCC[C@H]1C(=O)c1ccc(-c2ccnn2C)cc1,31622.78,weakly active
+CHEMBL4545393,Cc1nn(C)cc1NC(=O)[C@@H]1CCCC[C@H]1C(=O)c1ccc(-c2ccccn2)cc1,1995.26,weakly active
+CHEMBL4520720,Cc1nn(C)cc1NC(=O)[C@H]1CCCC[C@@H]1C(=O)c1ccc(-c2cc[nH]n2)cc1,7943.28,weakly active
+CHEMBL4554389,Cc1nn(C)cc1NC(=O)[C@@H]1CCCC[C@H]1C(=O)c1ccc(-c2cc[nH]n2)cc1,199.53,weakly active
+CHEMBL4472275,Cc1noc(C)c1NC(=O)[C@@H]1CCCC[C@H]1C(=O)c1ccc(-c2cc[nH]n2)cc1,501.19,weakly active
+CHEMBL4442240,Cc1cnn(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cccc(C(N)=O)c3)cc2)c1,1995.26,weakly active
+CHEMBL4444008,Cc1c[nH]nc1-c1ccc(C(=O)[C@@H]2CCCC[C@H]2C(=O)Nc2cn(C)nc2C)cc1,1000.0,weakly active
+CHEMBL4526540,Cc1nn(C)cc1NC(=O)[C@@H]1CCCC[C@H]1C(=O)c1ccc(-c2ccc[nH]2)cc1,1000.0,weakly active
+CHEMBL4525999,CC(=O)c1cccc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3c(C)noc3C)cc2)c1,2511.89,weakly active
+CHEMBL4464452,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cnn(C)c3C(N)=O)cc2)[nH]n1,35.0,intermediate
+CHEMBL4543613,CCn1ncc(NC(=O)[C@@H]2CCCC[C@H]2C(=O)c2ccc(-c3cc(C)n[nH]3)cc2)c1C(N)=O,29.0,intermediate
+CHEMBL4447921,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cnn(CC(N)=O)c3)cc2)[nH]n1,241.0,weakly active
+CHEMBL4543414,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3c(C)nn(C)c3C(N)=O)cc2)n[nH]1,101.0,weakly active
+CHEMBL4524468,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3c(C(N)=O)n[nH]c3C)cc2)n[nH]1,24.0,intermediate
+CHEMBL4568594,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cnn(C)c3C(=O)O)cc2)[nH]n1,17.0,intermediate
+CHEMBL4474748,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cnn(C)c3C(=O)NO)cc2)[nH]n1,47.0,intermediate
+CHEMBL4563459,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cnn(C)c3C(=O)NOC(C)(C)C)cc2)[nH]n1,5.8,highly active
+CHEMBL4474619,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cnn(C)c3S(N)(=O)=O)cc2)n[nH]1,34.0,intermediate
+CHEMBL4542281,Cc1cc(-c2ccc(C(=O)[C@@H]3CCCC[C@H]3C(=O)Nc3cnn4c3C(=O)NCC4)cc2)n[nH]1,6.3,highly active
+CHEMBL4560241,CN(C)C(=O)Cn1cc(-c2nc(C3(c4ccc(-c5cnc(N)nc5)cc4)CC3)no2)cn1,670.0,weakly active
